@@ -1,3 +1,3 @@
-add (a,b)
-  print( a + b)
-  return a +b
+add(a, b)
+print(a + b)
+return a + b
